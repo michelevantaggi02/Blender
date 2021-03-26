@@ -1,0 +1,27 @@
+# Blender MTL File: 'p-snickers_1.14.blend'
+# Material Count: 2
+
+newmtl Bar
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Bar2(NM2).png
+map_Kd Bar2.png
+
+newmtl LOGO
+Ns 575.999996
+Ka 0.100000 0.100000 0.100000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.500000 seam(NM).png
+map_Kd Snickers-LOGO.png
+map_d Snickers-LOGO.png
